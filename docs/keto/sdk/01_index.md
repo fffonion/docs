@@ -26,7 +26,6 @@ We publish our SDKs for popular languages in their respective package repositori
 - [Ruby](https://rubygems.org/gems/ory-client)
 - [Rust](https://crates.io/crates/ory-client)
 
-
 Code examples:
 
 - [Go](./05_go.mdx)
